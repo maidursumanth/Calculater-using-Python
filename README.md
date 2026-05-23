@@ -180,9 +180,9 @@ Through this project, I learned:
 
 ### Sumanth
 
-GitHub: https://github.com/maidursumanth
+GitHub: https://github.com/maidursumanth/Calculater-using-Python
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+LinkedIn: https://www.linkedin.com/in/msumanth1/
 
 ---
 
